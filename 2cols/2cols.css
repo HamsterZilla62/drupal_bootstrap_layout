@@ -1,0 +1,16 @@
+.page-admin .row {
+  width: 100%;
+  margin-bottom: 10px;
+  clear: both;
+}
+
+.page-admin .row .col-md-6 {
+  width:50%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.page-admin .row .col-md-6.last {
+  width:49%;
+  float: right;
+}

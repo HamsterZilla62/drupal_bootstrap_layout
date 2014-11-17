@@ -1,0 +1,17 @@
+.page-admin .row {
+  width: 100%;
+  margin-bottom: 10px;
+  clear: both;
+}
+
+.page-admin .row .col-md-3 {
+  width:32%;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.page-admin .row .col-md-9 {
+  float: right;
+  width:66%; 
+  margin-bottom: 10px;
+}
